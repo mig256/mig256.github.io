@@ -1,9 +1,14 @@
 .title-box {
   background-color: black;
-  padding: 20 px;
-  border-radius: 8 px; 
-  margin: 20 px auto;
+  padding: 40 px;
+  border-radius: 16 px; 
+  margin: 40 px auto;
   width: fit-content; 
+}
+.title-box h1 {
+  color: white; 
+  margin: 0;
+  text-align: center;
 }
 
 body {
