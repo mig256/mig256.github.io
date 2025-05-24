@@ -11,6 +11,11 @@
   font-size: 50px;
 }
 
+.title-box {
+  background-color: teal;
+  padding: 20px;
+  margin: 30px auto;
+}
 .title-box h2 {
   color: white;
   margin: 0;
