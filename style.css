@@ -11,6 +11,13 @@
   font-size: 50px;
 }
 
+.title-box h2 {
+  color: white;
+  margin: 0;
+  text-align: center;
+  font-size: 28px;
+}
+
 body {
   background-color: #778899; 
   text-align: center;        
